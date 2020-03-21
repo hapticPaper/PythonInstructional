@@ -7,3 +7,6 @@ One of the most complete guides available can be found at https://www.digitaloce
 
 
 ### Collaborators
+Users must first be added as collaborators by the owner of the repo. <br>
+https://github.com/hapticPaper/PythonInstructional/settings/access<br>
+Users can now create their own branches with `git checkout -b <branch-name>`.
