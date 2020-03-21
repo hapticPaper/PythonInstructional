@@ -10,3 +10,4 @@ One of the most complete guides available can be found at https://www.digitaloce
 Users must first be added as collaborators by the owner of the repo. <br>
 https://github.com/hapticPaper/PythonInstructional/settings/access<br>
 Users can now create their own branches with `git checkout -b <branch-name>`.
+After some work is done, and user can then do `git add` and `git commit -m "<commit message>"` to commit their work to their local repository. Collaborators can then merge their branch with master or push their branch to the repo. 
