@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+mnist*/
+
 # Distribution / packaging
 .Python
 build/
@@ -129,3 +131,4 @@ dmypy.json
 .pyre/
 
 .idea/
+.vscode/settings.json
